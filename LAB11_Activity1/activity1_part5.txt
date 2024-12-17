@@ -1,0 +1,29 @@
+﻿<Window x:Class="Activity_1_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Activity_1_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="604">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Image Width="200" Source="C:\Users\233757\Pictures\dec2.png"
+                  VerticalAlignment="Top" Margin="30"/>
+            <Image Width="200" Source="C:\Users\233757\Pictures\dec2.png" VerticalAlignment="Top"
+                   Margin="30" Opacity="0.5"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Ellipse Height="100" Width="200" HorizontalAlignment="Center" Margin="30">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="C:\Users\233757\Pictures\dec2.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
+        </StackPanel>
+    </Grid>
+</Window>
