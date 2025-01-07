@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Downloads\\Quzzing\\Quzzing\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Quzzing.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Quzzing.c08x2dtrwu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Downloads\\Quzzing\\Quzzing\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Downloads\\Quzzing\\Quzzing\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Downloads\\Quzzing\\Quzzing\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Downloads\\Quzzing\\Quzzing\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quzzing.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Quzzing.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Quzzing.props",
+      "PackagePath": "build\\Quzzing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Quzzing.props",
+      "PackagePath": "buildMultiTargeting\\Quzzing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Quzzing.props",
+      "PackagePath": "buildTransitive\\Quzzing.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
